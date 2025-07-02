@@ -1,1 +1,1 @@
-# techstax-action-repo
+# action-repo
